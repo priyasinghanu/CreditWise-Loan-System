@@ -1,4 +1,4 @@
-# CreditWise-Loan-System# CreditWise Loan System
+# CreditWise Loan System
 
 ## Project Overview
 CreditWise Loan System is a Machine Learning project that predicts whether a loan application will be approved or not based on customer information.
