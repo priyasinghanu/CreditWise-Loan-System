@@ -54,4 +54,8 @@ The model is trained and evaluated using various performance metrics such as:
 
 ## Author
 Annu Priya
+<<<<<<< HEAD
 MCA Student
+=======
+MCA Student
+>>>>>>> a84bb98ee77d9c6b0054d52ecc185d83071b2907
